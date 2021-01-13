@@ -1,4 +1,4 @@
-# import from twitter 
+﻿# import from twitter 
 foreach($user in Get-Content .\metadata\users.txt) {
     cd .\bin
     try {
